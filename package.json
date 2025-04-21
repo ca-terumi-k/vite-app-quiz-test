@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ca-terumi-k.github.io/vite-app-q/",
+  "homepage": "https://ca-terumi-k.github.io/vite-app-quiz-test/",
   "author": "TK.",
   "scripts": {
     "dev": "vite",
@@ -19,7 +19,8 @@
     "@tailwindcss/vite": "4.1.4",
     "framer-motion": "^12.7.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
